@@ -1,0 +1,78 @@
+body{
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    /* align-items: center; */
+    background-color:wheat;
+}
+
+.Container
+{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border: 20% solid beige;
+}
+
+.world
+{
+    float:left;
+    height:300%;
+    width:40%; 
+}
+
+.sent
+{
+    height: 200px;
+    width: 200px;
+    font-family:serif;
+    left: 60px;
+}
+.paris{
+    height: 500px;
+    width: 450px;
+    border-radius: 10px;
+    box-shadow: 10px;
+    box-sizing: 25px;
+
+}
+
+.canada
+{
+    height: 500px;
+    width: 450px;
+    border-radius: 10px;
+    box-shadow: 10px;
+    box-sizing: 25px;
+
+}
+
+.india
+{
+    height: 500px;
+    width: 450px;
+    border-radius: 10px;
+    box-shadow: 10px;
+    box-sizing: 25px;
+
+}
+
+.aus
+{
+    height: 500px;
+    width: 450px;
+    border-radius: 10px;
+    box-shadow: 10px;
+    box-sizing: 25px;
+
+}
+/* .photo2{
+    height:500px;
+    width: 400px;
+} */
+
+/* .img
+{
+    height:500px;
+    width: 500px;
+} */
